@@ -9,3 +9,5 @@ $ git config --global user.name "Esteban"
 $ git commit : agrega a la git, pero :wq para que quede claro
 $ git chekout --nombre_archivo.algo vuelve a la version anterior
 $ git diff nombre_archivo : muestra las diferencias
+$ git remote add origin hhttps://github.com/esariasm/Agro-Res.git
+$ git push -u origin master
