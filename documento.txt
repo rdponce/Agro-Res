@@ -1,0 +1,6 @@
+Comandos de git
+pwd: ubicacion
+cd para cambiar la ubicacion 
+$ git init 
+$ git status a ver si queda algo con cambios
+$ git add agrega a git
