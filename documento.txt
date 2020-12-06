@@ -4,3 +4,6 @@ cd para cambiar la ubicacion
 $ git init 
 $ git status a ver si queda algo con cambios
 $ git add agrega a git
+$ git config --global user.email "esariasm@gmail.com"
+$ git config --global user.name "Esteban"
+$ git commit : agrega a la git, pero :wq para que quede claro
