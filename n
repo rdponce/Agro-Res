@@ -1,0 +1,26 @@
+[33mcommit 99140a4df5861a36acb92fa7ac701dbe9335ff0b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Esteban <esariasm@gmail.com>
+Date:   Sun Dec 6 12:23:37 2020 -0300
+
+    Nueva version 3
+
+[33mcommit 2db8650a4d9d4cee669f81e74566a17279972026[m
+Author: Esteban <esariasm@gmail.com>
+Date:   Sun Dec 6 12:21:11 2020 -0300
+
+    Proyecto version 2
+
+[33mcommit b1808faf20ec19b97c35b38627b1c0dd036cebe1[m
+Author: Esteban <esariasm@gmail.com>
+Date:   Sun Dec 6 12:15:25 2020 -0300
+
+    Mi proyecto corregido
+    
+    Esteban@LAPTOP-BRBG8KIA MINGW64 ~/Desktop/Git (master)
+    $ git config --global user.name "Esteban"
+
+[33mcommit ec74a336f294798272a77da68f443033fc2dcb8a[m
+Author: Esteban <esariasm@gmail.com>
+Date:   Sun Dec 6 12:11:07 2020 -0300
+
+    Mi primer commit
